@@ -8,3 +8,6 @@ Este é um projeto de perfil pessoal criado com HTML5 e CSS3. Ele apresenta minh
 - CSS Flexbox e Grid
 - Google Fonts
 - Responsividade com media queries
+
+- _________________________________________
+- link do projeto: https://meuperfilex.netlify.app/
